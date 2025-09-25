@@ -4,6 +4,8 @@ description: fMRI of a brain
 file: /courses/9-46-neuroscience-of-morality-fall-2017/409188ffad248555a7191e271ea709ed_MIT9_46F17_chp_th.png
 file_size: 19753
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: fMRI indicating areas of the brain used in considering someone's intentions;
     right and left TPJ, MPFC & precuneus. Image courtesy of Professor Rebecca Saxe.
