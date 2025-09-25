@@ -25,7 +25,7 @@ Sato, Nobuya, Ling Tan, Kazushi Tate, and Maya Okada. "Rats Demonstrate Helping 
 
 3) Burkett et al claim that prairies voles console familiar individuals who have been stressed, using allogrooming, dependent on oxytocin. Can we tell whether this behavior is motivated by empathic distress (to reduce the observer’s distress) or compassion (to reduce the demonstrator’s distress), from these data? Do you agree that “the conserved neurobiology of consolation between prairie voles and humans suggests a deep homology”?
 
-Burkett, James P., Elissar Andari, Zachary V. Johnson, Daniel C. Curry, Frans BM de Waal, and Larry J. Young. "{{% resource_link "c713e549-5c5d-4fe5-a5df-e922a2f4aadb" "Oxytocin-Dependent Consolation Behavior in Rodents" %}}." _Science_ 351, no. 6271 (2016): 375-378.
+Burkett, James P., Elissar Andari, Zachary V. Johnson, Daniel C. Curry, Frans BM de Waal, and Larry J. Young. "[Oxytocin-Dependent Consolation Behavior in Rodents](http://science.sciencemag.org/content/351/6271/375)." _Science_ 351, no. 6271 (2016): 375-378.
 
 4) Research on oxytocin has led to the hypothesis that the evolutionary origin of empathy is a mechanism selected for care of offspring (see e.g. Preston, S. D. (2013). The origins of altruism in offspring care. Psychological bulletin, 139(6), 1305; or Feldman, R. (2017). The neurobiology of human attachments. Trends in Cognitive Sciences, 21(2), 80-99.). Summarize this hypothesis. What, on that view, is the main difference between human and rodent empathy?
 
@@ -114,13 +114,13 @@ Week 14: Morality and The Good Self
 
 Each student group will read one of the following behavioral experiments, and then use it as inspiration to design an fMRI experiment to test the neural mechanisms associated with the motive to maintain a positive self-concept.
 
-1) Shu, Lisa L., Nina Mazar, Francesca Gino, Dan Ariely, and Max H. Bazerman. "{{% resource_link "9d2acc91-543b-4c30-a383-50e1ae2fe389" "Signing at the Beginning Makes Ethics Salient and Decreases Dishonest Self-Reports in Comparison to Signing at the End." %}}" _Proceedings of the National Academy of Sciences_ 109, no. 38 (2012): 15197-15200.
+1) Shu, Lisa L., Nina Mazar, Francesca Gino, Dan Ariely, and Max H. Bazerman. "[Signing at the Beginning Makes Ethics Salient and Decreases Dishonest Self-Reports in Comparison to Signing at the End.](http://www.pnas.org/content/109/38/15197.short)" _Proceedings of the National Academy of Sciences_ 109, no. 38 (2012): 15197-15200.
 
-2) Bryan, Christopher J., Gabrielle S. Adams, and Benoît Monin. "{{% resource_link "bc4e06b9-51a9-49b1-bf33-b9f71c3a4a17" "When Cheating Would Make You a Cheater: Implicating the Self Prevents Unethical Behavior" %}}." _Journal of Experimental Psychology: General_ 142, no. 4 (2013): 1001.
+2) Bryan, Christopher J., Gabrielle S. Adams, and Benoît Monin. "[When Cheating Would Make You a Cheater: Implicating the Self Prevents Unethical Behavior](http://psycnet.apa.org/record/2012-29450-001)." _Journal of Experimental Psychology: General_ 142, no. 4 (2013): 1001.
 
-3) Effron, D. A., Miller, D. T., & Monin, B. (2012). "{{% resource_link "a1047627-c2a9-4830-9379-8c9e1863f991" "Inventing Racist Roads Not Taken: The Licensing Effect of Immoral Counterfactual Behaviors" %}}." _Journal of Personality and Social Psychology_, 103(6), 916.
+3) Effron, D. A., Miller, D. T., & Monin, B. (2012). "[Inventing Racist Roads Not Taken: The Licensing Effect of Immoral Counterfactual Behaviors](http://psycnet.apa.org/record/2012-25674-001)." _Journal of Personality and Social Psychology_, 103(6), 916.
 
-4) List, John A. "{{% resource_link "d1544090-ee8c-439d-90a2-de551e58f8ab" "On the Interpretation of Giving in Dictator Games" %}}." _Journal of Political Economy_ 115, no. 3 (2007): 482-493.
+4) List, John A. "[On the Interpretation of Giving in Dictator Games](http://www.journals.uchicago.edu/doi/abs/10.1086/519249)." _Journal of Political Economy_ 115, no. 3 (2007): 482-493.
 
 Week 15: Science and Morality
 -----------------------------
