@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "b05e9584-08a0-e8ce-fb23-87be3a4dbaf4",
+  "instructors": {
+    "content": [
+      "e27dc0c5-3212-2b0f-b5a4-073cea66aa3d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "af0e49b0-1c46-cac0-01c5-0974fa7389bc",
+    "website": "9-46-neuroscience-of-morality-fall-2017"
+  },
+  "course_title": "Neuroscience of Morality",
+  "course_description": "How do we decide whether an action is morally wrong? How do we choose to do what is right? When and why do we punish wrong-doers? Moral behavior and moral evaluation are functions of the human brain. It is just becoming possible to use neuroscientific methods to understand how they work. This course will consider the mechanisms of morality as a question for neuroscientists.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.46",
+  "course_image_thumbnail": {
+    "content": "409188ff-ad24-8555-a719-1e271ea709ed",
+    "website": "9-46-neuroscience-of-morality-fall-2017"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Written Assignments"
+  ],
+  "site_uid": "c2f3662d-c399-4758-81a2-e6e7d1ce9f37",
+  "site_short_id": "9.46-fall-2017",
+  "site_url_path": "courses/9-46-neuroscience-of-morality-fall-2017",
+  "title": "Course Metadata"
+}
